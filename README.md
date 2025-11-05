@@ -1,4 +1,4 @@
-# How to run
+# Ai caller which would reserve a court for volleyball by calling on scheduled time to given number
 
 ### Prerequisites: Install the Libraries
 
