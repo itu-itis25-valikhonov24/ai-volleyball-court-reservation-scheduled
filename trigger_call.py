@@ -15,7 +15,7 @@ TWILIO_AUTH_TOKEN = os.environ.get("TWILIO_AUTH_TOKEN")
 TWILIO_PHONE_NUMBER = "+1234567890"  # <-- !! REPLACE with your Twilio number
 
 # The university's number you want to call
-UNIVERSITY_PHONE_NUMBER = "+905551234567"  # <-- !! REPLACE with the university's number
+UNIVERSITY_PHONE_NUMBER = "+905551234567"  # <-- !! REPLACE with the number to be called
 
 # --- IMPORTANT: This URL must be a PUBLIC internet address ---
 # We will get this from 'ngrok' in the next step.
